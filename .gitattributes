@@ -1,2 +1,2 @@
-*.csv filter=lfs diff=lfs merge=lfs -text
+sugree.csv filter=lfs diff=lfs merge=lfs -text
 sugree.json filter=lfs diff=lfs merge=lfs -text
